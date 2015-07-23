@@ -1,0 +1,10 @@
+◆背景:
+
+
+
+
+◆参照資料:
+１．NagiosのPluginを以下のサイトよりダウンロードできる。
+　https://nagios-plugins.org/download/
+　
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　以上
